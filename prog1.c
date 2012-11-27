@@ -3,11 +3,8 @@
 main()
 {
    int n;
-<<<<<<< HEAD
  
-=======
    n=0;
->>>>>>> 11f44f14f7f8a7f3d385319ded8d6e3c662b1b18
  
    printf("Dodaj integer");
    scanf(%d,&n);
