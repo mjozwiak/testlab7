@@ -13,4 +13,6 @@ main()
       printf(Oddn);
  
    return 0;
+
+   printf("jakas zmiana");
 }
