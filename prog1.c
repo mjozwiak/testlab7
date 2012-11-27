@@ -4,7 +4,7 @@ main()
 {
    int n;
  
-   printf(Enter an integern);
+   printf("Dodaj integer");
    scanf(%d,&n);
  
    if ( n%2 == 0 )
