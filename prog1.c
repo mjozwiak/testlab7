@@ -3,6 +3,7 @@
 main()
 {
    int n;
+   n=0;
  
    printf("Dodaj integer");
    scanf(%d,&n);
